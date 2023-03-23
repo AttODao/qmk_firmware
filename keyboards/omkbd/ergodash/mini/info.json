@@ -1,11 +1,11 @@
 {
-  "keyboard_name": "ErgoDash Mini",
+  "keyboard_name": "ErgoDash mini",
   "manufacturer": "Omkbd",
   "url": "",
   "maintainer": "qmk",
   "usb": {
     "vid": "0xFEED",
-    "pid": "0x6060",
+    "pid": "0x4040",
     "device_version": "1.0.0"
   },
   "backlight": {
